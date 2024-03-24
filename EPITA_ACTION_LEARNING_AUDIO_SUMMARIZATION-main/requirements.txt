@@ -1,0 +1,13 @@
+streamlit
+flask
+bs4
+requests
+pydub
+SpeechRecognition
+transformers==4.28.1 
+soundfile 
+sentencepiece 
+torchaudio
+tokenizers==0.13.3
+keras
+youtube_transcript_api
